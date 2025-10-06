@@ -16,7 +16,7 @@ body {
   min-height: 70vh;
   width: 100%;
   background: linear-gradient(rgba(42, 29, 14, 0.3), rgba(42, 29, 14, 0.3)),
-              url("images/INDEX BG.png") center/cover no-repeat;
+              url("INDEX BG.png") center/cover no-repeat;
   position: relative;
 }
 
@@ -532,3 +532,4 @@ nav img {
     font-size: 0.85rem;
   }
 }
+
